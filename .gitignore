@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Slide sources (export to PDF before committing)
+*.key
+*.pptx
